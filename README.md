@@ -1,1 +1,1 @@
-# rsschool-cvad
+https://yuriyhmel.github.io/rsschool-cv/
