@@ -50,7 +50,6 @@ html {
   text-decoration: none;
   text-transform: capitalize;
   position: relative;
-  style: none;
   color: black;
 }
 
@@ -219,8 +218,9 @@ html {
   max-width: 80%;
   text-transform: uppercase;
   padding-left: 10px;
+
 }
 
 .summary {
-  max-width: 90%;
+  max-width: 80%;
 }
