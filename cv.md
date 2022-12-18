@@ -2,7 +2,7 @@
 Kmelnichenko Yuri Andreevich
 e-mail: hmelnich@yandex.ru discord: Yuriy (@Yuriy_Hmeln)
 
-Previously worked in professions, did not meet with IT. I have a higher technical education in the field of car expluatation. I want to learn web development in order to be able to work remotely and be able to travel.
+I have a higher technical education in the field of car exploitation. I want to learn web development in order to be able to work remotely and be able to travel.
 At the moment I have the skills to work with html and css. I took a course at Stepik.
 My English level -B2
 
